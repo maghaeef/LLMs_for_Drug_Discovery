@@ -227,7 +227,7 @@ targets = [
     "Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1",
     "Insulin-like growth factor II receptor",
     "PPAR delta/gamma",
-    "Neuronal acetylcholine receptor subunit alpha-2/beta-2",
+    "Neuronal acetylcholine receptor; alpha2/beta2",
     "Tumour suppressor p53/oncoprotein Mdm2",
     "Prostaglandin E synthase 2",
     "Casein kinase I delta",
