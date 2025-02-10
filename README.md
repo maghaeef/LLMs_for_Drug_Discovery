@@ -26,11 +26,10 @@ pip install psycopg2-binary pandas tqdm
 3. Modify `database_connection_info.py` with your database credentials.
 
 ## Usage
-Run the script to fetch data:
+Execute the Jupyter Notebook for step-by-step data retrieval and analysis:
 ```bash
-python DataRetrievalFromChEMBL.py
+python DataRetrievalFromChEMBL.ipynb
 ```
-Alternatively, execute the Jupyter Notebook for step-by-step data retrieval and analysis.
 
 ## Data Retrieved
 The script fetches:
@@ -49,4 +48,4 @@ df.to_csv("retrieved_data.csv", index=False)
 This project is licensed under the MIT License.
 
 ## Contact
-For questions, reach out at your_email@example.com.
+For questions, reach out at maghaeef@uwaterloo.ca.
